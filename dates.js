@@ -17,4 +17,4 @@ function DayName(dateString) {
     const dayIndex = date.getDay();
     return days[dayIndex];
 }
- console.log(DayName("2023-11-12"))
+ console.log(DayName("2025-02-15"))
